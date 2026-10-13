@@ -1,0 +1,35 @@
+Feature,Importance
+num__Lag1_Revenue,0.1285363896932307
+num__EnrollmentMomentum,0.12660861492602568
+num__Rolling3_Enrollments,0.10635508798840115
+num__Lag1_Enrollments,0.0886738352743981
+num__Lag2_Enrollments,0.08279110801297217
+num__MonthNumber,0.07578132479492145
+num__CourseRating,0.0723848990432416
+num__CourseDuration,0.07208782150423325
+num__Rolling3_Revenue,0.05833745730290975
+num__Lag3_Enrollments,0.03904211206559137
+cat__CourseCategory_Data Science,0.028270944335365682
+cat__CourseLevel_Intermediate,0.020609343822529654
+cat__CourseCategory_Business,0.020501644894948164
+cat__CourseCategory_Artificial Intelligence,0.020234847748755527
+cat__CourseCategory_Project Management,0.012073610837701759
+cat__CourseCategory_Finance,0.010733570667345559
+num__LogCoursePrice,0.008794165268187286
+cat__CourseLevel_Beginner,0.00870261853993601
+cat__CourseCategory_Machine Learning,0.004440380477512192
+cat__CourseCategory_Marketing,0.004353524579799242
+num__Quarter,0.0036994255077529795
+num__CoursePrice,0.0028107715025894615
+cat__CourseLevel_Advanced,0.0021715813176493848
+cat__CourseCategory_Digital Marketing,0.002004919894001858
+cat__CourseCategory_Cybersecurity,0.0
+num__IsFreeCourse,0.0
+cat__CourseCategory_Web Development,0.0
+cat__CourseCategory_Programming,0.0
+cat__CourseCategory_Design,0.0
+cat__CourseType_Paid,0.0
+cat__CourseType_Free,0.0
+cat__DurationBucket_Long,0.0
+cat__DurationBucket_Medium,0.0
+cat__DurationBucket_Short,0.0
